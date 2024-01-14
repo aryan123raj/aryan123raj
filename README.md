@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aryan123raj
 - 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning react native for app development
-- 💞️ I’m looking to collaborate on new technologies like flutter.
+- 🌱 I’m currently learning react for web development
 - 📫 How to reach me aryanav8349@gmail.com
 
 <!---
